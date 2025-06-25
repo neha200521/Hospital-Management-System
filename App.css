@@ -1,0 +1,48 @@
+.v{
+  background-color: darkcyan;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+}
+.menu{
+  background-color: color-mix(in hsl longer hue, color percentage, color percentage);
+  padding: 10px;
+  font-style: italic;
+  justify-content: space-between;
+  display: flex;
+}
+.d{
+  background-color: red;
+}
+.i{
+  background-color: blue;
+}
+.ab{
+  text-align: center;
+  background-color: gray;
+}
+.n{
+  background-image: url("https://wps03-media.cdn.ihealthspot.com/wp-content/uploads/sites/5/2022/12/iStock-493216309-1024x683.jpg");
+  font-size: 10px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.z{
+  background-color: black;
+  color: white;
+}
+Link:visited{
+  color:red;
+}
+h1{
+  color:black;
+}
+marquee{
+  background-color: black;
+}
+.ad{
+  color: black;
+}
+.menu-item:hover{
+  background-color: skyblue;
+}
